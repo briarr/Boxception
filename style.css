@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+  }
+  
+  /* Option 1 */
+  #square3 {
+    width: 100px;
+    height: 100px;
+    border: 3px solid black;
+    margin: 100px auto;
+    margin-top: 300px;
+  }
+  
+  #square2 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    margin: -500px auto;
+  
+  }
+  
+  #square {
+    width: 500px;
+    height: 500px;
+    border: 3px solid black;
+    margin: 100px auto;
+
+  }
+  
